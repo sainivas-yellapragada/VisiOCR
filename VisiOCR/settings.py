@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'visiocr',
         'USER': 'root',
-        'PASSWORD': 'root',
+        'PASSWORD': 'Xiao70622',
         'HOST': 'visiocr.cjcaysuq4jcs.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
