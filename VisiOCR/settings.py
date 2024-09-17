@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'visiocr',
         'USER': 'root',
         'PASSWORD': 'root',
-        'HOST': 'localhost',
+        'HOST': 'visiocr.cjcaysuq4jcs.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
